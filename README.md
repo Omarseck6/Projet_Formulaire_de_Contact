@@ -16,7 +16,7 @@ Aperçu du Projet
 
 <br/>
 Prérequis
-Before you begin, make sure you have the following installed:
+Avant de commencer , assurez vous d'avoir ces élément instalés :
 
 Un serveur Web supportant PHP (ex: Apache, Nginx ou XAMPP). <br/>
 PHP version 7.0 ou supérieure.
