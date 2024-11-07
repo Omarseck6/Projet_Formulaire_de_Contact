@@ -3,7 +3,7 @@ Un simple formulaire de contact créé avec HTML, CSS, JavaScript, et PHP. Ce fo
 
 Aperçu du Projet
 ```sh
-![Aperçu du formulaire de contact](./screenshot.png)
+![Aperçu du formulaire de contact](screenshot.png)
 ```
 
 
