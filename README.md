@@ -2,9 +2,8 @@
 Un simple formulaire de contact créé avec HTML, CSS, JavaScript, et PHP. Ce formulaire permet aux utilisateurs d'envoyer des messages qui seront traités côté serveur en PHP.
 
 Aperçu du Projet
-```sh
-![Aperçu du formulaire de contact](screenshot.png)
-```
+
+![Aperçu du formulaire de contact](./screenshot.png)
 
 
 
